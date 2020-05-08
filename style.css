@@ -1,0 +1,503 @@
+
+body{
+    margin: 0px 0px 0px 0px;}
+.sec_1{
+    
+    height: 50px;
+    background-color: blue;
+    display: flex;
+    width:100%;
+}
+
+.img_1{
+    width: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.img_2{
+
+    width: 20px;
+    height: 25px;
+   
+ padding: 10px 5px 10px 5px;
+
+}
+
+.img_3{
+    width: 20px;
+    height: 25px;
+    padding: 10px 0px 10px 5px;
+}
+
+.div_1{
+    display:2;
+    
+}
+
+.div_2{
+    font-size: 20px;
+    color: white;
+    display:3;
+  align-self: center;
+  padding-left: 30px;
+}
+
+
+.div_3{
+    display:2;
+    align-self: center;
+    padding-left: 30px;
+
+}
+
+.logo{
+    height: 50px;
+    width:200px;
+    margin-left: 20px;
+}
+
+.sec_2{
+    height: 60px;
+    background-color: white;
+    display: flex;
+    
+}
+
+.div2{
+    
+    
+    display: 2;
+    margin:15px 0px 15px 300px; 
+   
+
+    
+    
+}
+ 
+/* div 4 starts here*/
+#hove:hover{
+    background-color: blue;
+}
+
+
+.home{
+    padding: 5px 0px 5px 0px;
+    
+    margin: 10px 0px 0px 10px;
+    height: 30px;
+    width: 90px;
+
+    border-radius: 15px;
+    background-color: white;
+
+    
+}
+.drop{
+   
+
+
+    display: 2;
+    margin:15px 0px 15px 0px; 
+  
+
+}
+
+
+
+.drop div a{
+    color:black;
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+
+
+}
+
+.drop{
+    
+    display: inline-block;
+   
+}
+.drop div{
+
+    position:absolute;
+      top: 55px;
+      width: 90px;
+      background-color: white;
+    
+    box-shadow: 2px 4px 8px grey;
+    visibility: hidden;
+}
+.drop:hover div{
+    visibility: visible;
+}
+
+#hove_2:hover{
+    background-color: blue;
+    
+
+}
+
+
+
+/* div 2 starts here*/
+.drop2 button:hover{
+    background-color: blue;
+
+}
+.drop2 button{
+    padding:2px 0px 2px 0px;
+    width:110px;
+}
+.drop2{
+     
+    display: 2;
+    margin:15px 0px 15px 0px; 
+
+
+}
+  .drop2 div a{
+      
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+  }
+
+  .drop2{
+      display: inline-block;
+  }
+
+  .drop2 div{
+      position:absolute;
+      top: 55px;
+      width: 120px;
+
+
+
+     background-color: white;
+
+
+
+
+    box-shadow: 2px 4px 5px grey;
+    visibility: hidden;
+  }
+
+  .drop2:hover div{
+    visibility: visible;
+  }
+
+
+  /*div5 starts here*/
+  .drop3 div a{ 
+      display: block;
+      text-decoration: none;
+      padding: 8px;
+      color: black;
+
+  }
+
+
+  .drop3{
+    display: inline-block;
+}
+
+.drop3 div{
+
+    position:absolute;
+      top: 55px;
+      width: 90px;
+      background-color: white;
+
+  box-shadow: 2px 4px 8px grey;
+  visibility: hidden;
+}
+
+.drop3:hover div{
+  visibility: visible;
+}
+
+.drop3 button:hover{
+    background-color: blue;
+}
+.drop3{
+    
+     
+    display: 2;
+    margin:15px 0px 15px 0px; 
+
+
+}
+
+/*div*/
+.div6 {
+    display: 2;
+    margin:15px 0px 15px 0px; 
+
+   
+}
+.div6 button:hover{
+    background-color: blue;
+}
+
+
+/* section 3*/
+
+
+.img{
+  
+    height: 500px;
+    width: 100%;
+
+   
+}
+.bar{
+    color: white;
+   background-color: blue;}
+
+.introimg img{
+  height: 150px;
+  width: 400px;
+   
+    margin: 10px 25% 10px 35%;
+}
+.introimg{
+    width: 100%;
+    
+}
+
+
+.content{
+    margin: 10px 200px 10px 200px;
+}
+.content p{
+    color:grey;
+    justify-content: center;
+    word-spacing: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+    .sec_2{
+        margin: 0;
+        
+      
+   
+   position: fixed;  
+   
+    width: 100%;
+   
+    
+}    
+/* sec 4*/
+/* sec 5 */
+.sec5 div img{
+    margin-top: 40px;
+    margin-left: 35%;
+}
+
+
+
+
+
+/* sec 6 */
+.main{
+    display:flex;
+   
+ 
+    
+    
+}
+ 
+.one img{
+  
+    margin: 10px 50px 10px 60px;
+} 
+
+.fig1{
+    font-size: 20px;
+    word-spacing: 0px;
+    color: blue;
+  
+   margin: auto 20px auto 30px;
+align-self: center;
+}
+.fig2{
+    
+    font-size: 20px;
+     position: absolute;
+     top: 1775px;
+    color: blue;
+    left: 44%;
+    margin: 10px 20px 10px 20px;
+}
+
+
+.fig3{
+    color: blue;
+    font-size: 20px;
+    position: absolute;
+    top:1775px;
+    left: 79%;
+}
+.medi{
+    margin: 0px 50px 10px 60px;
+}
+ .welfare{
+    margin:7px 100px 10px 80px;
+    padding-bottom: 30px;
+    
+} 
+
+
+
+
+.one,.two,.three{
+    box-shadow: 5px 10px 8px 10px gainsboro;
+    
+    flex: 1;
+    
+    width: 330px;
+    height: 200px;
+    margin: 50px 25px 50px 25px;
+   
+}
+
+
+/* main 2 */
+
+.main2{
+    
+    display: flex;
+    
+}
+.four,.five,.six{
+    
+    
+    box-shadow: 5px 10px 8px 10px gainsboro;
+        flex: 1;
+        
+        width: 330px;
+        height: 200px;
+        margin: 0px 25px 50px 25px;
+    
+    
+}
+
+
+.fork{
+    padding-left: 40px;
+    width: 130px;
+    
+    margin: 10px 60px 10px 50px;   
+}
+.plant{
+  padding: 10px 10px 10px 60px;}
+.edu{
+    
+    width: 90px;
+    padding: 10px 10px 10px 90px;
+}
+
+.fig4{
+    font-size: 20px;
+    color: blue;
+    position: absolute;
+    top: 2030px;
+    left: 130px;
+
+
+}
+.fig5{
+    
+    font-size: 20px;
+    color: blue;
+    position: absolute;
+    top: 2030px;
+    left: 45%;
+
+}
+.fig6{
+    font-size: 20px;
+    color: blue;
+    position: absolute;
+    top: 2030px;
+    left: 78%;
+
+
+}
+
+/* sec 7 */
+.roz{
+    display: flex;
+}
+.container{
+    flex: 1;
+    width: 50%;
+    overflow: hidden;
+   
+    margin:20px auto auto 0px;
+    padding: 20px;
+} 
+.container section{
+padding: 0px;
+margin: 70px 0px 0px 0px;
+}
+
+.container section div{
+    float: left;
+    width: 260px;
+    height: 60px;
+   
+    margin: 10px 15px 10px 0px;
+    box-shadow: 3px 5px 10px slategrey;
+}
+.up h2{
+    color: blue;
+    font-size: 30px;
+    margin-top: 63px;
+}
+.up{
+    flex: 1;}
+.up div{
+        
+    margin: 30px 30px 50px 60px;
+     
+   
+    width: 280px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    
+ 
+}
+.hep{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    color: blue;
+}
+
+.container h2{
+    color: blue;
+    font-size: 30px;
+}
+
+
+/*sec 8*/
+.sec8> img{
+    margin-left: 450px;
+    
+}
+.imggallery{
+   margin-left: 10%;
+ align-content: center;
+}
+.imggallery a img{
+    width: 250px;
+    height: 180px;
+}
+.sec9{
+    margin-top: 0px;
+}
+
